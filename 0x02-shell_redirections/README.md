@@ -1,1 +1,1 @@
-shell redurections
+redirection
